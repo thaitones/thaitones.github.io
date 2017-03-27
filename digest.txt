@@ -1,0 +1,3 @@
+getdown.txt = 92fd331ad03a3f2671011f25f6c75bdd
+ThaiTones.jar = 92f3d57c7a8d874c6d237436b3f6efb1
+digest.txt = afcecb9e72ddd5d5163c25dfb7a0d55d

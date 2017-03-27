@@ -1,0 +1,10 @@
+# The URL from which the client is downloaded
+appbase = https://thaitones.github.io
+# UI Configuration
+ui.name = Thai Tone Markers
+
+# Application jar files
+code = ThaiTones.jar
+
+# The main entry point for the application
+class = com.ThaiTones.ThaiTones
